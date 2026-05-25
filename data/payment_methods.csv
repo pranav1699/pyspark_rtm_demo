@@ -1,0 +1,16 @@
+payment_method_id,payment_method_name,payment_method_type,payment_method_category,payment_processing_fee_percent
+PM001,Credit Card - Visa,credit_card,card,2.5
+PM002,Credit Card - MasterCard,credit_card,card,2.5
+PM003,Debit Card - Visa,debit_card,card,1.5
+PM004,PayPal,digital_wallet,digital,3.0
+PM005,Apple Pay,digital_wallet,digital,2.8
+PM006,Google Pay,digital_wallet,digital,2.8
+PM007,Bank Transfer - ACH,bank_transfer,bank,0.5
+PM008,Wire Transfer,bank_transfer,bank,1.0
+PM009,Cryptocurrency - Bitcoin,crypto,crypto,1.2
+PM010,Cryptocurrency - Ethereum,crypto,crypto,1.2
+PM011,Buy Now Pay Later - Klarna,bnpl,installment,4.5
+PM012,Buy Now Pay Later - Afterpay,bnpl,installment,4.5
+PM013,Cash on Delivery,cash,offline,0.0
+PM014,Store Credit,store_credit,internal,0.0
+PM015,Gift Card,gift_card,internal,0.0

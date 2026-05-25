@@ -1,0 +1,21 @@
+customer_id,customer_name,customer_email,customer_tier,customer_region,customer_registration_date
+CUST001,John Doe,john.doe@email.com,premium,US,2023-01-15
+CUST002,Jane Smith,jane.smith@email.com,free,UK,2024-03-22
+CUST003,Bob Johnson,bob.j@email.com,premium,DE,2022-11-08
+CUST004,Alice Williams,alice.w@email.com,gold,FR,2023-07-30
+CUST005,Charlie Brown,charlie.b@email.com,free,US,2024-01-10
+CUST006,Diana Prince,diana.p@email.com,premium,IN,2022-09-18
+CUST007,Ethan Hunt,ethan.h@email.com,gold,UK,2023-05-25
+CUST008,Fiona Gallagher,fiona.g@email.com,free,CA,2024-02-14
+CUST009,George Martin,george.m@email.com,premium,AU,2022-12-01
+CUST010,Hannah Abbott,hannah.a@email.com,gold,US,2023-08-19
+CUST011,Ian Malcolm,ian.m@email.com,free,DE,2024-04-05
+CUST012,Julia Roberts,julia.r@email.com,premium,FR,2022-10-12
+CUST013,Kevin Hart,kevin.h@email.com,gold,UK,2023-06-28
+CUST014,Laura Croft,laura.c@email.com,free,IN,2024-01-30
+CUST015,Michael Scott,michael.s@email.com,premium,US,2022-11-22
+CUST016,Nancy Wheeler,nancy.w@email.com,gold,CA,2023-09-14
+CUST017,Oscar Wilde,oscar.w@email.com,free,AU,2024-03-08
+CUST018,Penelope Cruz,penelope.c@email.com,premium,DE,2022-08-17
+CUST019,Quentin Tarantino,quentin.t@email.com,gold,FR,2023-04-02
+CUST020,Rachel Green,rachel.g@email.com,free,US,2024-02-28
